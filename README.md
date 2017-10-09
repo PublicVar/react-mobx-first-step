@@ -39,6 +39,10 @@ npm install --save mobx mobx-react
 
 **Si jamais on a des problèmes avec le module babel-loader qui ne serait introuvable faire un ```npm install```**
 
+# Utiliser le repo
+
+Cloner le repo puis faire un ```npm install``` dans le dossier de l'application. Ça va installer les dépendances et les mettre dans le dossier node_modules
+
 # A faire
 
 Tout n'est pas encore fonctionnel. Il reste à :
